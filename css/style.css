@@ -48,7 +48,11 @@ h2 {
   letter-spacing: 0.3px;
   text-align: left;
   color: #fb6f92;
-  padding: 10px 0px 10px 10px;
+  padding: 10px 20px 0 20px;
+}
+
+a {
+  color: #fb6f92;
 }
 
 .buttonBox {
@@ -92,7 +96,7 @@ object-fit: cover;
   font-size: 24px;
   font-family: 'Source Sans Pro', sans-serif;
 }
-.recipe {
+.project {
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
   width: 100%;
 }
@@ -132,15 +136,7 @@ object-fit: cover;
   letter-spacing: 0.1px;
   text-align: left;
   color: #4a4a4a;
-  padding: 10px 0px 10px 10px;
-  border-top: 1px solid #4a4a4a;
-}
-
-.logo {
-  width: 115px;
-  height: 21.1px;
-  object-fit: contain;
-  padding: 20px;
+  padding: 0 20px 20px 20px;
 }
 
 .container {
